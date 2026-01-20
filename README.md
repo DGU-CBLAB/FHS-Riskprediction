@@ -10,33 +10,34 @@ The code implements model development, hyperparameter tuning, nested cross-valid
 
 ## 📁 Repository Structure
 
+```
 ├── grid_model_code/
-│ ├── rf/
-│ ├── xgboost/
-│ ├── catboost/
-│ ├── lightgbm/
-│ └── logistic_regression/
+│   ├── rf/
+│   ├── xgboost/
+│   ├── catboost/
+│   ├── lightgbm/
+│   └── logistic_regression/
 │
 ├── nestedCV/
-│ ├── rf/
-│ ├── xgboost/
-│ ├── catboost/
-│ ├── lightgbm/
-│ └── logistic_regression/
+│   ├── rf/
+│   ├── xgboost/
+│   ├── catboost/
+│   ├── lightgbm/
+│   └── logistic_regression/
 │
 ├── risk_prediction_model/
-│ ├── train.py
-│ ├── evaluate.py
-│ ├── utils.py
-│ └── model/
-│ ├── rf.py
-│ ├── xgboost.py
-│ ├── catboost.py
-│ ├── lightgbm.py
-│ └── logistic_regression.py
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── utils.py
+│   └── model/
+│       ├── rf.py
+│       ├── xgboost.py
+│       ├── catboost.py
+│       ├── lightgbm.py
+│       └── logistic_regression.py
 │
 └── README.md
-
+```
 
 ---
 
